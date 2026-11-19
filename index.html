@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/read-and-understand/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Read and Understand: an Arabic reading-comprehension course">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Read & Understand">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#1F3A5F">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Read and Understand</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body style="background:#1F3A5F">
+  <div id="boot" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;font:18px -apple-system,Helvetica,Arial;text-align:center;padding:24px">
+    <div style="font-size:26px;margin-bottom:6px">Read and Understand</div>
+    <div style="font-size:24px;margin-bottom:18px">اِقْرَأْ وَافْهَمْ</div>
+    <div id="bootmsg">Loading… · جَارٍ التَّحْمِيلُ…</div>
+    <pre id="booterr" style="white-space:pre-wrap;font-size:12px;text-align:left;margin-top:16px;max-width:100%;color:#ffd7c4"></pre>
+  </div>
+  <script>
+    (function () {
+      var errs = [];
+      function show(m) { errs.push(m); var e = document.getElementById('booterr'); if (e) e.textContent = 'Please send a screenshot of this:\n' + errs.join('\n') + '\n\n' + navigator.userAgent; }
+      window.addEventListener('error', function (e) { show('Error: ' + (e.message || e) + ' ' + (e.filename || '') + ':' + (e.lineno || '')); });
+      window.addEventListener('unhandledrejection', function (e) { show('Promise: ' + (e.reason && (e.reason.stack || e.reason.message) || e.reason)); });
+      try { var c = document.createElement('canvas'); if (!c.getContext('webgl2') && !c.getContext('webgl')) show('This browser has no WebGL (graphics). Please open the link in Safari, not inside another app.'); } catch (x) { show('WebGL check failed: ' + x); }
+      setTimeout(function () { if (document.getElementById('boot') && !document.querySelector('flt-glass-pane, flutter-view')) show('The app did not start after 60 seconds. Check the internet connection for the first opening, then try again.'); }, 60000);
+      // hide the loading screen as soon as Flutter has drawn
+      var t = setInterval(function () { if (document.querySelector('flt-glass-pane, flutter-view')) { var b = document.getElementById('boot'); if (b && !errs.length) b.remove(); clearInterval(t); } }, 300);
+    })();
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+  <script>if ("serviceWorker" in navigator) { window.addEventListener("load", function () { navigator.serviceWorker.register("sw.js"); }); }</script>
+</body>
+</html>

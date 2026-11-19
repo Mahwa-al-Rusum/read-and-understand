@@ -1,0 +1,902 @@
+[
+{
+"no": 1,
+"stage": 1,
+"part": "A",
+"title_en": "Three kinds of word",
+"title_ar": "الِاسْمُ وَالْفِعْلُ وَالْحَرْفُ",
+"q_en": "When you meet an Arabic word, what job is it doing?",
+"items": 39
+},
+{
+"no": 2,
+"stage": 1,
+"part": "A",
+"title_en": "Root and pattern",
+"title_ar": "الْجَذْرُ وَالْوَزْنُ",
+"q_en": "Where does this word come from, and can I guess its meaning?",
+"items": 54
+},
+{
+"no": 3,
+"stage": 1,
+"part": "A",
+"title_en": "Definite and indefinite",
+"title_ar": "الْمَعْرِفَةُ وَالنَّكِرَةُ",
+"q_en": "Is the speaker talking about one particular thing, or any thing?",
+"items": 66
+},
+{
+"no": 4,
+"stage": 1,
+"part": "A",
+"title_en": "Masculine or feminine?",
+"title_ar": "الْمُذَكَّرُ وَالْمُؤَنَّثُ",
+"q_en": "Is this person or thing male or female?",
+"items": 75
+},
+{
+"no": 5,
+"stage": 1,
+"part": "A",
+"title_en": "One, two or many?",
+"title_ar": "الْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+"q_en": "How many people or things are there: one, two or many?",
+"items": 77
+},
+{
+"no": 6,
+"stage": 1,
+"part": "A",
+"title_en": "Who? The pronouns",
+"title_ar": "الضَّمَائِرُ",
+"q_en": "Which small word can stand in for a person or thing?",
+"items": 81
+},
+{
+"no": 7,
+"stage": 1,
+"part": "A",
+"title_en": "Pointing words: this and that",
+"title_ar": "أَسْمَاءُ الْإِشَارَةِ",
+"q_en": "Which word points to the person or thing: this, that, these, those?",
+"items": 90
+},
+{
+"no": 8,
+"stage": 1,
+"part": "A",
+"title_en": "Question words",
+"title_ar": "أَدَوَاتُ الِاسْتِفْهَامِ",
+"q_en": "What is the question asking for?",
+"items": 59
+},
+{
+"no": 9,
+"stage": 2,
+"part": "A",
+"title_en": "What is it about, and what is said about it?",
+"title_ar": "الْجُمْلَةُ الِاسْمِيَّةُ",
+"q_en": "Can a sentence say something without a verb?",
+"items": 112
+},
+{
+"no": 10,
+"stage": 2,
+"part": "A",
+"title_en": "Agreement",
+"title_ar": "الْمُطَابَقَةُ",
+"q_en": "Does the second word match the first?",
+"items": 121
+},
+{
+"no": 11,
+"stage": 2,
+"part": "A",
+"title_en": "“This is…” or “this …”?",
+"title_ar": "هَذَا كِتَابٌ أَمْ هَذَا الْكِتَابُ؟",
+"q_en": "Is it a full sentence, or only a pointing phrase?",
+"items": 130
+},
+{
+"no": 12,
+"stage": 2,
+"part": "A",
+"title_en": "Noun + adjective: phrase or sentence?",
+"title_ar": "الصِّفَةُ بَعْدَ الِاسْمِ",
+"q_en": "Is “noun + adjective” one idea, or a full sentence?",
+"items": 121
+},
+{
+"no": 13,
+"stage": 2,
+"part": "A",
+"title_en": "“I am / you are / he is”",
+"title_ar": "أَنَا وَأَنْتَ وَهُوَ",
+"q_en": "How do I say who someone is, or what they are like?",
+"items": 129
+},
+{
+"no": 14,
+"stage": 2,
+"part": "A",
+"title_en": "Where is it?",
+"title_ar": "أَيْنَ؟",
+"q_en": "How do I say where something is?",
+"items": 132
+},
+{
+"no": 15,
+"stage": 2,
+"part": "A",
+"title_en": "Questions and answers",
+"title_ar": "الْأَسْئِلَةُ وَالْأَجْوِبَةُ",
+"q_en": "How do I ask a question, and how do I answer it?",
+"items": 141
+},
+{
+"no": 16,
+"stage": 2,
+"part": "A",
+"title_en": "“Is not”",
+"title_ar": "لَيْسَ",
+"q_en": "How do I say that something is NOT so?",
+"items": 148
+},
+{
+"no": 17,
+"stage": 3,
+"part": "A",
+"title_en": "The past verb: he and she",
+"title_ar": "الْفِعْلُ الْمَاضِي: هُوَ وَهِيَ",
+"q_en": "What happened, and who did it?",
+"items": 131
+},
+{
+"no": 18,
+"stage": 3,
+"part": "A",
+"title_en": "Who did it?",
+"title_ar": "مَنْ فَعَلَ؟",
+"q_en": "Who or what is doing the action?",
+"items": 154
+},
+{
+"no": 19,
+"stage": 3,
+"part": "A",
+"title_en": "The past verb: I, you, we, they",
+"title_ar": "الْفِعْلُ الْمَاضِي: كُلُّ الضَّمَائِرِ",
+"q_en": "Who did it, when there is no doer word? The ending tells you.",
+"items": 146
+},
+{
+"no": 20,
+"stage": 3,
+"part": "A",
+"title_en": "What was it done to?",
+"title_ar": "الْمَفْعُولُ بِهِ",
+"q_en": "The boy did something. What did he do it to?",
+"items": 155
+},
+{
+"no": 21,
+"stage": 3,
+"part": "A",
+"title_en": "Present tense: he and she",
+"title_ar": "الْفِعْلُ الْمُضَارِعُ",
+"q_en": "Did it happen already, or is it happening now?",
+"items": 153
+},
+{
+"no": 22,
+"stage": 3,
+"part": "A",
+"title_en": "Present tense: all persons",
+"title_ar": "الْمُضَارِعُ مَعَ الضَّمَائِرِ",
+"q_en": "Who is doing it: I, you, he, she, we or they?",
+"items": 163
+},
+{
+"no": 23,
+"stage": 3,
+"part": "A",
+"title_en": "Commands and “do not”",
+"title_ar": "الْأَمْرُ وَالنَّهْيُ",
+"q_en": "How do I tell someone to do something, or not to do it?",
+"items": 160
+},
+{
+"no": 24,
+"stage": 3,
+"part": "A",
+"title_en": "“was” with كَانَ",
+"title_ar": "كَانَ",
+"q_en": "How do I say that something WAS so?",
+"items": 175
+},
+{
+"no": 25,
+"stage": 3,
+"part": "A",
+"title_en": "Saying “not” with verbs",
+"title_ar": "نَفْيُ الْفِعْلِ",
+"q_en": "How do I say that someone did not, will not or does not do something?",
+"items": 158
+},
+{
+"no": 26,
+"stage": 4,
+"part": "A",
+"title_en": "Prepositions",
+"title_ar": "حُرُوفُ الْجَرِّ",
+"q_en": "How is this noun joined to the rest of the sentence?",
+"items": 173
+},
+{
+"no": 27,
+"stage": 4,
+"part": "A",
+"title_en": "My, your, his: pronouns on the end",
+"title_ar": "الضَّمِيرُ الْمُتَّصِلُ بِالِاسْمِ",
+"q_en": "Whose is it? Who is the little ending on this word?",
+"items": 171
+},
+{
+"no": 28,
+"stage": 4,
+"part": "A",
+"title_en": "“Of” phrases",
+"title_ar": "الْإِضَافَةُ",
+"q_en": "Whose is it? What is this thing “of”?",
+"items": 161
+},
+{
+"no": 29,
+"stage": 4,
+"part": "A",
+"title_en": "The pronoun on the end of a verb",
+"title_ar": "الضَّمِيرُ الْمُتَّصِلُ بِالْفِعْلِ",
+"q_en": "Who or what was it done to?",
+"items": 168
+},
+{
+"no": 30,
+"stage": 4,
+"part": "A",
+"title_en": "Joining words",
+"title_ar": "كَلِمَاتُ الرَّبْطِ",
+"q_en": "How does the writer join one idea to the next?",
+"items": 170
+},
+{
+"no": 31,
+"stage": 4,
+"part": "A",
+"title_en": "Who, which, what",
+"title_ar": "الَّذِي وَالَّتِي وَالَّذِينَ",
+"q_en": "How can a sentence tell us more about a person or thing: “the man WHO wrote…”?",
+"items": 180
+},
+{
+"no": 32,
+"stage": 4,
+"part": "A",
+"title_en": "Reason, condition, emphasis",
+"title_ar": "السَّبَبُ وَالشَّرْطُ وَالتَّوْكِيدُ",
+"q_en": "How do we say “because”, “if / when” and “indeed”?",
+"items": 174
+},
+{
+"no": 33,
+"stage": 4,
+"part": "A",
+"title_en": "How many? Numbers, every, some",
+"title_ar": "الْأَعْدَادُ وَكُلٌّ وَبَعْضٌ",
+"q_en": "How do I read “three books”, “every student”, “some of the people”?",
+"items": 191
+},
+{
+"no": 34,
+"stage": 5,
+"part": "A",
+"title_en": "Reading a short story",
+"title_ar": "قِصَّةٌ قَصِيرَةٌ",
+"q_en": "Can I follow a whole story: who did what, to whom, and in what order?",
+"items": 203
+},
+{
+"no": 35,
+"stage": 5,
+"part": "A",
+"title_en": "Reading a dialogue",
+"title_ar": "قِرَاءَةُ حِوَارٍ",
+"q_en": "Who is speaking, what are they asking or telling, and what do the small words (not, do, ?) change?",
+"items": 202
+},
+{
+"no": 36,
+"stage": 5,
+"part": "A",
+"title_en": "Reading a ḥadīth",
+"title_ar": "الْحَدِيثُ الشَّرِيفُ",
+"q_en": "What is this short saying of the Prophet ﷺ telling me?",
+"items": 212
+},
+{
+"no": 37,
+"stage": 5,
+"part": "A",
+"title_en": "A story in the Qur’an: sūrat al-Fīl",
+"title_ar": "قِصَّةٌ فِي الْقُرْآنِ",
+"q_en": "Who did what, and what happened in the end?",
+"items": 209
+},
+{
+"no": 38,
+"stage": 5,
+"part": "A",
+"title_en": "Qur’an: a promise, a reminder, a prayer",
+"title_ar": "وَعْدٌ وَأَمْرٌ وَدُعَاءٌ",
+"q_en": "What is this verse doing: promising, reminding, commanding or asking?",
+"items": 208
+},
+{
+"no": 39,
+"stage": 5,
+"part": "A",
+"title_en": "Read and understand: the five questions",
+"title_ar": "اِقْرَأْ وَافْهَمْ",
+"q_en": "Can I take any Arabic sentence and work out what it means?",
+"items": 218
+},
+{
+"no": 40,
+"stage": 6,
+"part": "B",
+"title_en": "Why do the endings change?",
+"title_ar": "الْإِعْرَابُ",
+"q_en": "Why does the last letter of a word keep changing?",
+"items": 173
+},
+{
+"no": 41,
+"stage": 6,
+"part": "B",
+"title_en": "Many: but which one?",
+"title_ar": "جُمُوعُ التَّكْسِيرِ",
+"q_en": "This word means “many”: which word is the one?",
+"items": 166
+},
+{
+"no": 42,
+"stage": 6,
+"part": "B",
+"title_en": "Who did it? Nobody says: the passive",
+"title_ar": "لَمْ يُذْكَرِ الْفَاعِلُ",
+"q_en": "The door was opened. By whom? The sentence does not say. How does Arabic say it?",
+"items": 184
+},
+{
+"no": 43,
+"stage": 6,
+"part": "B",
+"title_en": "A doubled middle letter: Form II",
+"title_ar": "الشَّدَّةُ فِي وَسَطِ الْفِعْلِ",
+"q_en": "Why is there a shadda in the middle of this verb, and what does it change?",
+"items": 183
+},
+{
+"no": 44,
+"stage": 6,
+"part": "B",
+"title_en": "Reading day 1: the formulas of the Rātib and where they come from",
+"title_ar": "يَوْمُ الْقِرَاءَةِ: أَذْكَارُ الرَّاتِبِ",
+"q_en": "I know these words by ear. Can I read them, understand them and say where they come from?",
+"items": 173
+},
+{
+"no": 45,
+"stage": 6,
+"part": "B",
+"title_en": "An alif after the first letter, or a hamza before it: Forms III and IV",
+"title_ar": "أَلِفٌ بَعْدَ الْحَرْفِ الْأَوَّلِ أَوْ هَمْزَةٌ قَبْلَهُ",
+"q_en": "Why do some verbs have an alif after the first letter (سَافَرَ) and others a hamza before it (أَرْسَلَ)?",
+"items": 173
+},
+{
+"no": 46,
+"stage": 6,
+"part": "B",
+"title_en": "تَـ at the front: Forms V and VI",
+"title_ar": "تَـ فِي أَوَّلِ الْفِعْلِ",
+"q_en": "Why does this verb begin with تَـ?",
+"items": 174
+},
+{
+"no": 47,
+"stage": 6,
+"part": "B",
+"title_en": "Extra letters at the front: Forms VII, VIII and X",
+"title_ar": "حُرُوفٌ زَائِدَةٌ فِي أَوَّلِ الْفِعْلِ: اِنْـ، ـتـ، اِسْتَـ",
+"q_en": "What are the extra letters before the root of this verb?",
+"items": 172
+},
+{
+"no": 48,
+"stage": 6,
+"part": "B",
+"title_en": "A letter that doubles, a hamza that hides",
+"title_ar": "الْمُضَاعَفُ وَالْمَهْمُوزُ",
+"q_en": "This verb has a shadda, and that one has lost its hamza. Where did the letters go?",
+"items": 172
+},
+{
+"no": 49,
+"stage": 6,
+"part": "B",
+"title_en": "Reading day: a ḥadīth with its chain",
+"title_ar": "يَوْمُ الْقِرَاءَةِ: حَدِيثٌ وَسَنَدُهُ",
+"q_en": "Where does the chain end, and where do the words begin?",
+"items": 155
+},
+{
+"no": 50,
+"stage": 6,
+"part": "B",
+"title_en": "The middle letter hides: hollow verbs",
+"title_ar": "الْفِعْلُ الْأَجْوَفُ",
+"q_en": "Where did the middle letter go?",
+"items": 188
+},
+{
+"no": 51,
+"stage": 6,
+"part": "B",
+"title_en": "A weak first or last letter",
+"title_ar": "الْفِعْلُ الْمِثَالُ وَالنَّاقِصُ",
+"q_en": "Why does the first letter vanish in يَجِدُ and the last letter change in دَعَوْتُ?",
+"items": 184
+},
+{
+"no": 52,
+"stage": 6,
+"part": "B",
+"title_en": "Odd ones: verbs that break the pattern",
+"title_ar": "الْأَفْعَالُ الْغَرِيبَةُ",
+"q_en": "What do I do with the verbs that do not follow the usual shape?",
+"items": 142
+},
+{
+"no": 53,
+"stage": 6,
+"part": "B",
+"title_en": "One root, one family of words",
+"title_ar": "جَذْرٌ وَاحِدٌ، أُسْرَةٌ وَاحِدَةٌ",
+"q_en": "How do I tell the doer, the one done-to and the action name of one root?",
+"items": 146
+},
+{
+"no": 54,
+"stage": 6,
+"part": "B",
+"title_en": "Noun shapes: five jobs",
+"title_ar": "أَوْزَانُ الْأَسْمَاءِ",
+"q_en": "What does the shape of a noun tell me before I know the word?",
+"items": 160
+},
+{
+"no": 55,
+"stage": 6,
+"part": "B",
+"title_en": "The dictionary: finding any word",
+"title_ar": "الْمُعْجَمُ",
+"q_en": "How do I find a word I do not know in a dictionary?",
+"items": 158
+},
+{
+"no": 56,
+"stage": 7,
+"part": "C",
+"title_en": "Words that change the ending",
+"title_ar": "أَخَوَاتُ كَانَ وَأَخَوَاتُ إِنَّ",
+"q_en": "Which small words change the ending of the words after them?",
+"items": 187
+},
+{
+"no": 57,
+"stage": 7,
+"part": "C",
+"title_en": "In what state? The ḥāl",
+"title_ar": "الْحَالُ",
+"q_en": "How do I say in what state someone did something?",
+"items": 195
+},
+{
+"no": 58,
+"stage": 7,
+"part": "C",
+"title_en": "How much, how, why?",
+"title_ar": "كَمْ؟ وَكَيْفَ؟ وَلِمَاذَا؟",
+"q_en": "Some words ending in ـًا are not the doer or the thing acted on. What are they telling me?",
+"items": 200
+},
+{
+"no": 59,
+"stage": 7,
+"part": "C",
+"title_en": "Two objects; “no … at all”",
+"title_ar": "مَفْعُولَانِ وَلَا الَّتِي تَنْفِي الْجِنْسَ",
+"q_en": "Some verbs act on two things at once. And what does لَا do before a noun, as in لَا إِلَهَ إِلَّا اللَّهُ?",
+"items": 200
+},
+{
+"no": 60,
+"stage": 7,
+"part": "C",
+"title_en": "Reading day 4: a list page",
+"title_ar": "يَوْمُ الْقِرَاءَةِ: صَفْحَةُ الْقَائِمَةِ",
+"q_en": "A page that lists things: what is being counted, and which is the first, the second, the third?",
+"items": 179
+},
+{
+"no": 61,
+"stage": 7,
+"part": "C",
+"title_en": "Calling and exclaiming",
+"title_ar": "النِّدَاءُ وَالْقَسَمُ",
+"q_en": "How do I read “O …!” and “By God!”: who is being called, and what happens to the word?",
+"items": 195
+},
+{
+"no": 62,
+"stage": 7,
+"part": "C",
+"title_en": "Except: taking one out",
+"title_ar": "الِاسْتِثْنَاءُ: إِلَّا وَغَيْرُ وَسِوَى",
+"q_en": "Which word takes someone out of a sentence, and what happens to the word after it?",
+"items": 170
+},
+{
+"no": 63,
+"stage": 7,
+"part": "C",
+"title_en": "Names in a chain: son of, titles, kunya",
+"title_ar": "سِلْسِلَةُ الْأَسْمَاءِ: بْنُ وَالْكُنْيَةُ وَاللَّقَبُ",
+"q_en": "How do I read a long name: who is whose son, which words are titles, and what are the endings?",
+"items": 171
+},
+{
+"no": 64,
+"stage": 7,
+"part": "C",
+"title_en": "A verb and its little word: one unit",
+"title_ar": "الْفِعْلُ وَحَرْفُهُ",
+"q_en": "Which little word does this verb take, and does it change the meaning?",
+"items": 176
+},
+{
+"no": 65,
+"stage": 7,
+"part": "C",
+"title_en": "Reading day 5: advice (do, do not, if … then)",
+"title_ar": "قِرَاءَةُ النَّصِيحَةِ: افْعَلْ وَلَا تَفْعَلْ",
+"q_en": "How do I read a text that tells me what to do?",
+"items": 177
+},
+{
+"no": 66,
+"stage": 7,
+"part": "C",
+"title_en": "Little words of time, place and degree",
+"title_ar": "كَلِمَاتٌ صَغِيرَةٌ",
+"q_en": "What do the little words always, mostly, never, very, also and only add to a sentence?",
+"items": 196
+},
+{
+"no": 67,
+"stage": 7,
+"part": "C",
+"title_en": "Joining sentences in depth",
+"title_ar": "رَبْطُ الْجُمَلِ",
+"q_en": "How do “as for … then”, “either … or”, “when”, “while”, “whenever” and “until” tie sentences together?",
+"items": 192
+},
+{
+"no": 68,
+"stage": 7,
+"part": "C",
+"title_en": "Who and which in depth",
+"title_ar": "الْعَائِدُ وَجُمْلَةُ الصِّلَةِ",
+"q_en": "In “the book that I read”, which word points back to the book, and what do we do when there is no “that”?",
+"items": 182
+},
+{
+"no": 69,
+"stage": 7,
+"part": "C",
+"title_en": "The verb’s three shapes",
+"title_ar": "ثَلَاثَةُ أَشْكَالٍ لِلْفِعْلِ",
+"q_en": "Why does the last vowel of a present verb change after some little words?",
+"items": 197
+},
+{
+"no": 70,
+"stage": 7,
+"part": "C",
+"title_en": "If … then: the condition and its answer",
+"title_ar": "الشَّرْطُ وَالْجَوَابُ",
+"q_en": "If this happens, what follows? How do I find the condition and its answer?",
+"items": 180
+},
+{
+"no": 71,
+"stage": 7,
+"part": "C",
+"title_en": "Numbers, dates and times",
+"title_ar": "الْأَعْدَادُ وَالتَّوَارِيخُ",
+"q_en": "How do I read a number, a date or a time in an old book?",
+"items": 206
+},
+{
+"no": 72,
+"stage": 8,
+"part": "D",
+"title_en": "The Qur’an with its commentary (tafsīr)",
+"title_ar": "الْقُرْآنُ مَعَ التَّفْسِيرِ: أَيْ وَيَعْنِي وَالْمُرَادُ",
+"q_en": "Which words are the verse, and which words explain it?",
+"items": 177
+},
+{
+"no": 73,
+"stage": 8,
+"part": "D",
+"title_en": "A ḥadīth with its chain and its commentary",
+"title_ar": "الْحَدِيثُ مَعَ إِسْنَادِهِ وَشَرْحِهِ",
+"q_en": "Where does the chain end, where do the words begin, and where does the commentary start?",
+"items": 170
+},
+{
+"no": 74,
+"stage": 8,
+"part": "D",
+"title_en": "A short ḥadīth: condition and reward",
+"title_ar": "الْحَدِيثُ الْقَصِيرُ: الشَّرْطُ وَالثَّوَابُ",
+"q_en": "What must a person do, and what does he get for it?",
+"items": 178
+},
+{
+"no": 75,
+"stage": 8,
+"part": "D",
+"title_en": "Fiqh: matn, sharḥ and the ruling",
+"title_ar": "الْفِقْهُ: الْمَتْنُ وَالشَّرْحُ وَالْحُكْمُ",
+"q_en": "What is the ruling, and what is it about?",
+"items": 180
+},
+{
+"no": 76,
+"stage": 8,
+"part": "D",
+"title_en": "Creed in verse and prose",
+"title_ar": "الْعَقِيدَةُ: نَظْمٌ وَنَثْرٌ",
+"q_en": "What is a creed made of, and how do I read a line of verse?",
+"items": 186
+},
+{
+"no": 77,
+"stage": 8,
+"part": "D",
+"title_en": "Counsel: the four frames",
+"title_ar": "النَّصِيحَةُ: عَلَيْكَ بِـ وَإِيَّاكَ وَ",
+"q_en": "How does a teacher’s counsel speak, and what do its four little frames say?",
+"items": 202
+},
+{
+"no": 78,
+"stage": 8,
+"part": "D",
+"title_en": "A page of advice: the long sentence",
+"title_ar": "صَفْحَةٌ مِنَ النَّصَائِحِ",
+"q_en": "How do I read a long sentence, and follow the thread of the argument from line to line?",
+"items": 176
+},
+{
+"no": 79,
+"stage": 8,
+"part": "D",
+"title_en": "The litany whole: Wird and Rātib",
+"title_ar": "الْوِرْدُ كُلُّهُ",
+"q_en": "How do I read the whole litany at speed: what is said, how many times, and which part is the Qur’an?",
+"items": 182
+},
+{
+"no": 80,
+"stage": 8,
+"part": "D",
+"title_en": "Mawlid prose: rhyme, chains, blessings",
+"title_ar": "نَثْرُ الْمَوْلِدِ: السَّجْعُ وَالْإِضَافَةُ وَالصَّلَاةُ",
+"q_en": "How do I read a page of mawlid prose, where the clauses rhyme, the nouns hang in long chains, and the vowels begin to disappear?",
+"items": 175
+},
+{
+"no": 81,
+"stage": 8,
+"part": "D",
+"title_en": "The qaṣīda: bayt, rhyme, beat",
+"title_ar": "الْقَصِيدَةُ: الْبَيْتُ وَالْقَافِيَةُ وَالْوَزْنُ",
+"q_en": "How do I read a poem: where does each bayt break, how does the rhyme work, and why are some words in a strange order?",
+"items": 187
+},
+{
+"no": 82,
+"stage": 8,
+"part": "D",
+"title_en": "The sīra: born, grew up, travelled",
+"title_ar": "السِّيرَةُ: وُلِدَ، نَشَأَ، سَافَرَ",
+"q_en": "How do I read the story of a life, section by section: who, when, where, and what came next?",
+"items": 170
+},
+{
+"no": 83,
+"stage": 8,
+"part": "D",
+"title_en": "A scholar’s life-entry and a classical letter",
+"title_ar": "التَّرْجَمَةُ وَالرِّسَالَةُ",
+"q_en": "How do I read a scholar’s biography entry, and the opening and closing of a classical letter?",
+"items": 175
+},
+{
+"no": 84,
+"stage": 8,
+"part": "D",
+"title_en": "The majlis record: who is speaking?",
+"title_ar": "كَلَامُ الْمَجْلِسِ مَكْتُوبًا",
+"q_en": "In a record of a majlis, whose words am I reading: the writer’s or the teacher’s? Which little formulas tell me?",
+"items": 190
+},
+{
+"no": 85,
+"stage": 8,
+"part": "D",
+"title_en": "A fatwā, a sermon, a will: three frames",
+"title_ar": "الْفَتْوَى وَالْخُطْبَةُ وَالْوَصِيَّةُ",
+"q_en": "Who asks and who answers in a fatwā? How does a sermon begin and end? What does a will say, and to whom?",
+"items": 193
+},
+{
+"no": 86,
+"stage": 8,
+"part": "D",
+"title_en": "The grammar primer: the names of the signs",
+"title_ar": "كِتَابُ النَّحْوِ: أَسْمَاءُ الْعَلَامَاتِ",
+"q_en": "What does a text about grammar call the signs I have been reading since Lesson 1?",
+"items": 172
+},
+{
+"no": 87,
+"stage": 8,
+"part": "D",
+"title_en": "Level 8 checkpoint: a recorded lesson, and every kind of text",
+"title_ar": "مُرَاجَعَةُ الْمُسْتَوَى الثَّامِنِ: الدَّرْسُ الْمُسَجَّلُ",
+"q_en": "Can I read a lesson that was spoken and written down, and tell what kind of text any page is?",
+"items": 183
+},
+{
+"no": 88,
+"stage": 9,
+"part": "E",
+"title_en": "The news report",
+"title_ar": "الْخَبَرُ",
+"q_en": "What happened, where and when? Who did it, if anyone is named?",
+"items": 199
+},
+{
+"no": 89,
+"stage": 9,
+"part": "E",
+"title_en": "Letters, forms, signs and notices",
+"title_ar": "الرِّسَالَةُ وَالِاسْتِمَارَةُ وَاللَّافِتَةُ",
+"q_en": "What does this sign, form, label or e-mail want from me?",
+"items": 202
+},
+{
+"no": 90,
+"stage": 9,
+"part": "E",
+"title_en": "Instructions and recipes",
+"title_ar": "الْوَصْفَاتُ وَالْإِرْشَادَاتُ",
+"q_en": "What am I asked to do, and in what order?",
+"items": 181
+},
+{
+"no": 91,
+"stage": 9,
+"part": "E",
+"title_en": "Adverts and price lists",
+"title_ar": "الْإِعْلَانَاتُ وَالْأَسْعَارُ",
+"q_en": "What is being offered, at what price, when, and what am I asked to do?",
+"items": 181
+},
+{
+"no": 92,
+"stage": 9,
+"part": "E",
+"title_en": "Fable and classical story: how a tale is told",
+"title_ar": "الْحِكَايَةُ وَالْعِبْرَةُ",
+"q_en": "How does a tale begin, move and end, and who is speaking?",
+"items": 175
+},
+{
+"no": 93,
+"stage": 9,
+"part": "E",
+"title_en": "Proverbs and a line of poetry",
+"title_ar": "الْمَثَلُ وَالْبَيْتُ",
+"q_en": "How do I read a saying with no verb, or a verse whose words are turned around?",
+"items": 195
+},
+{
+"no": 94,
+"stage": 9,
+"part": "E",
+"title_en": "Science and encyclopaedia",
+"title_ar": "التَّعْرِيفُ فِي الْمَوْسُوعَةِ",
+"q_en": "How does a reference book say what a thing is, and how do I find the word it is explaining?",
+"items": 188
+},
+{
+"no": 95,
+"stage": 9,
+"part": "E",
+"title_en": "Biography and history",
+"title_ar": "التَّارِيخُ وَالسِّيرَةُ",
+"q_en": "How do I read a history or a life: what happened, in what order, and why?",
+"items": 180
+},
+{
+"no": 96,
+"stage": 9,
+"part": "E",
+"title_en": "The travel narrative",
+"title_ar": "كِتَابُ الرِّحْلَةِ",
+"q_en": "Who is travelling, from where to where, and how long did it take?",
+"items": 170
+},
+{
+"no": 97,
+"stage": 9,
+"part": "E",
+"title_en": "The interview and the dialect",
+"title_ar": "الْمُقَابَلَةُ وَاللَّهْجَةُ",
+"q_en": "Who is asking, who is answering, and which words are local?",
+"items": 184
+},
+{
+"no": 98,
+"stage": 9,
+"part": "E",
+"title_en": "Legal wording and an abstract",
+"title_ar": "لُغَةُ الْعُقُودِ وَالْأَبْحَاثِ",
+"q_en": "What are the fixed phrases of a contract, a waqf deed and a research abstract, and what does each part say?",
+"items": 170
+},
+{
+"no": 99,
+"stage": 9,
+"part": "E",
+"title_en": "A modern short story",
+"title_ar": "الْقِصَّةُ الْحَدِيثَةُ",
+"q_en": "How does a modern story show what is seen, what is thought, what is felt and what is said, all in one passage?",
+"items": 168
+},
+{
+"no": 100,
+"stage": 9,
+"part": "E",
+"title_en": "A day of reading: the capstone",
+"title_ar": "يَوْمٌ مِنَ الْقِرَاءَةِ",
+"q_en": "Can I read any text, of any kind, and understand it?",
+"items": 217
+}
+]
